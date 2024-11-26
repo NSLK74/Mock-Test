@@ -1,0 +1,5 @@
+total 12
+drwxr-x--- 4 kierangill kierangill 4096 Nov 26 10:34 image
+-rw-rw-r-- 1 kierangill kierangill    0 Nov 26 11:12 permissions_report.txt
+drwxr-x--- 2 kierangill kierangill 4096 Nov 26 10:33 src
+drwxr-x--- 2 kierangill kierangill 4096 Nov 26 11:02 text
